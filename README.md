@@ -1,6 +1,6 @@
-Using this requires the Tasks community plugin.  The Archiver plugin is highly recommended for cleaning up the lists.  Please install both and enable them.  The terminology used below assumes basic familiarity with _Getting Things Done (GTD)_
+This is a directory of files you can add to any Obsidian vault to add GTD task tracking capabilities. Using this requires the Tasks community plugin.  The Archiver plugin is highly recommended for cleaning up the lists.  Please install both and enable them.  The terminology used below assumes basic familiarity with _Getting Things Done (GTD)_
 
-To use this, add this directory to your vault.  All the queries and functionality ignores the rest of your vault except for the ```_All tasks in daily notes``` page. That will look for a top level folder called "daily notes" for ... tasks in your daily notes. If you keep you daily notes elsewhere, modify the query. If don't use daily notes or don't put quick capture tasks in there ... just delete that file and update ```zNavmenu```
+To use this, add the TODO directory to your vault.  All the queries and functionality ignores the rest of your vault except for the ```_All tasks in daily notes``` page. That will look for a top level folder called "daily notes" for ... tasks in your daily notes. If you keep you daily notes elsewhere, modify the query. If don't use daily notes or don't put quick capture tasks in there ... just delete that file and update ```zNavmenu```
 
 Tour of what's in here
 - README - duh
